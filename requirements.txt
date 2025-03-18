@@ -1,6 +1,4 @@
-pandas
-numpy
-matplotlib
-scrapy
-beautifulsoup
--e. 
+Flask
+requests
+python-dotenv
+gunicorn
